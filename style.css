@@ -1,0 +1,16 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --bkg: #060b66;
+      --pacman: #EEEE14;
+    }
+
+    body {
+      min-height: 100vh;
+      background-color: var(--bkg);
+      overflow: hidden;
+    }
